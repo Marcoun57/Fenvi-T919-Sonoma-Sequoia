@@ -1,6 +1,6 @@
 # How to get Fenvi T919 working in Sonoma or Sequoia
 
-### If you want to know more about Broadcom wifi cards, check <a href="https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-with-OCLP/tree/main">perez987</a> github.
+### If you want to know more about Broadcom wifi cards, check <a href="https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-with-OCLP/tree/main"target="_blank" rel="noopener noreferrer">perez987</a> github.
 
 I want to make an easy and fast tutorial to make Wifi and Bluetooth work in Sonoma and Sequoia with Fenvi T919 card in a few steps.
 
