@@ -7,10 +7,10 @@ I want to make an easy and fast tutorial to make Wifi and Bluetooth work in Sono
 ## Tutorial
 
 You need:
-- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi" target="_blank">IOSkywalkFamily.kext</a>
-- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi" target="_blank">IO80211FamilyLegacy.kext</a>
-- <a href="https://mackie100projects.altervista.org/opencore-configurator/" target="_blank">OpenCore Config</a>
-- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/releases" target="_blank">OpenCore Legacy Patcher</a>
+- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi" target="_blank" rel="noopener noreferrer">IOSkywalkFamily.kext</a>
+- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi" target="_blank" rel="noopener noreferrer">IO80211FamilyLegacy.kext</a>
+- <a href="https://mackie100projects.altervista.org/opencore-configurator/" target="_blank" rel="noopener noreferrer">OpenCore Config</a>
+- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/releases" target="_blank" rel="noopener noreferrer">OpenCore Legacy Patcher</a>
 
 Then:
 - Download `IOSkywalkFamily.kext` and `IO80211FamilyLegacy.kext` and place it in your `Kexts` folder
