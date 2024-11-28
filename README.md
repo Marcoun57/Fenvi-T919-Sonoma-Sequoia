@@ -22,13 +22,13 @@ Then:
 - Place the Kexts in the right order like shown and set `MinKernel` to `23.0.0`
 <img width="750" alt="Kernel Add" src="https://github.com/user-attachments/assets/bf0f4e10-d8d7-4a8d-9f8b-a3163faa251c">
 
-- Go to the `Block` which is on top and add `com.apple.iokit.IOSkywalkFamily`, set `MinKernel` to `23.0.0` and set `Strategy` to `Exclude`
+- Go to the `Block` section which is on top and add `com.apple.iokit.IOSkywalkFamily`, set `MinKernel` to `23.0.0` and set `Strategy` to `Exclude`
 <img width="750" alt="Kernel Block" src="https://github.com/user-attachments/assets/c487317c-a10c-4b23-b634-8e02b36fe24a">
 
-- Go to the `MISC` tab then to `Security` on top and choose `Disabled` in `SecureBootModel`
+- Go to the `MISC` tab then to `Security` on top and choose `Disabled` for `SecureBootModel`
 <img width="750" alt="MISC" src="https://github.com/user-attachments/assets/410d051a-f264-43a9-bf0b-10fe11b945c3">
 
-- Go to the `NVRAM` tab then add to boot-args `amfi=0x80` and csr-active-config to `03080000`
+- Go to the `NVRAM` tab then add to boot-args `amfi=0x80` and set csr-active-config to `03080000`
 <img width="750" alt="NVRAM" src="https://github.com/user-attachments/assets/1045b441-a5db-47f7-b81f-010433078dd6">
 
 - Now quit OpenCore Config and save the changes and eject EFI
