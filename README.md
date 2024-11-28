@@ -7,10 +7,10 @@ I want to make an easy and fast tutorial to make Wifi and Bluetooth work in Sono
 ## Tutorial
 
 You need:
-- <a href="">IOSkywalkFamily.kext</a>
-- <a href="">IO80211FamilyLegacy.kext</a>
-- <a href="">OpenCore Config</a>
-- <a href="">OpenCore Legacy Patcher</a>
+- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi">IOSkywalkFamily.kext</a>
+- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi">IO80211FamilyLegacy.kext</a>
+- <a href="https://mackie100projects.altervista.org/opencore-configurator/">OpenCore Config</a>
+- <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/releases">OpenCore Legacy Patcher</a>
 
 Then:
 - Download `IOSkywalkFamily.kext` and `IO80211FamilyLegacy.kext` and place it in your `Kexts` folder
